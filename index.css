@@ -1,0 +1,13 @@
+.item{
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+    font-size: 15px;
+}
+.section-body{
+    display: flex;
+    flex-wrap: wrap;
+}
+.section-header{
+    font-size: 30px;
+}
