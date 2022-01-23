@@ -3,7 +3,7 @@
     flex-wrap: wrap;
 }
 img{
-    width: 400px;
+    width: 100px;
     transform: scale(0.7);
 }
 img:hover{
