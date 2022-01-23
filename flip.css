@@ -4,4 +4,8 @@
 }
 img{
     width: 400px;
+    transform: scale(0.7);
+}
+img:hover{
+    transform: scale(1.0);
 }
